@@ -1,0 +1,5 @@
+{
+  "name": "NeuroVis 3D",
+  "description": "An interactive 3D visualization of deep learning training processes, showing forward propagation, gradient descent, and feature extraction matrices.",
+  "requestFramePermissions": []
+}
